@@ -2,3 +2,4 @@ Hello World!
 The second line of text
 The third line of text
 The fourth line of text
+Commit by Yurkovskiy
